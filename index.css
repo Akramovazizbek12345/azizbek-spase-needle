@@ -1,0 +1,1238 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.container {
+    max-width: 950px;
+    margin: auto;
+}
+
+.container ul {
+    list-style: none;
+    padding-top: 50px;
+}
+
+.container ul li {
+    display: inline-block;
+    padding: 11px;
+}
+
+.container ul li a {
+    text-decoration: none;
+    color: rgb(148, 144, 144);
+    font-weight: 800;
+    font-size: 17px;
+}
+
+.container ul li a:hover {
+    color: rgb(75, 73, 73);
+}
+
+.nav_border1 {
+    width: 100%;
+    background-color: rgb(160, 157, 157);
+    height: 1px;
+    margin-top: 10px;
+}
+
+.searcher {
+    margin: 60px 20px 50px 15px;
+    font-size: 15px;
+    color: gray;
+}
+
+select {
+    font-weight: 800;
+    border: none;
+    font-size: 15px;
+    position: relative;
+
+}
+
+select option {
+    font-weight: 800;
+    font-family: sans-serif;
+    font-size: 15px;
+    display: inline-block;
+}
+
+select option:hover {
+    color: black;
+    background-color: white;
+    border-radius: 0;
+}
+
+select:focus {
+    outline: 0;
+}
+
+.needle-rasm {
+    height: 60px;
+    position: relative;
+    left: 55px;
+    top: 22px;
+}
+
+.space-needle-h1-1 {
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 30px;
+    font-weight: 100;
+    color: gray;
+    letter-spacing: 10px;
+    position: relative;
+    top: 4px;
+}
+
+.buy-tickets-h2 {
+    background-color: rgb(218 177 89);
+    padding: 11px 25px;
+    display: inline-block;
+    margin-left: 265px;
+}
+
+.buy-tickets-h2:hover {
+    background-color: rgb(224, 190, 115);
+}
+
+.chiziq {
+    font-size: 21px;
+    position: relative;
+    top: 2px;
+    left: 9px;
+    cursor: pointer;
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+.video-shahar {
+    width: 100%;
+}
+
+.video-border1 {
+    display: inline-block;
+    position: relative;
+    height: 120px;
+    width: 2px;
+    background-color: white;
+    top: -167px;
+    left: 150px;
+}
+
+.video-div {
+    position: relative;
+    left: 180px;
+    top: -116px;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+.today-hours {
+    font-size: 17px;
+    display: inline-block;
+}
+
+.katta-font {
+    font-size: 30px;
+    font-weight: 800;
+    display: inline-block;
+}
+
+.video-border2 {
+    height: 120px;
+    width: 2px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -70px;
+}
+
+.sunset {
+    position: relative;
+    top: -110px;
+    left: 300px;
+    display: inline-block;
+}
+
+.soat {
+    position: relative;
+    left: 300px;
+    top: -110px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.kichkina-span {
+    font-size: 18px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+.an-elevated-experience {
+    position: relative;
+    top: -250px;
+    font-size: 70px;
+    color: rgb(84 88 90);
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 110px;
+}
+
+.divlar1 {
+    display: inline-block;
+    width: 27%;
+    margin: 40px;
+    position: relative;
+    top: -335px;
+}
+
+.divlar2 {
+    display: inline-block;
+    width: 27%;
+    margin: 40px;
+    position: relative;
+    top: -260px;
+}
+
+.divlar3 {
+    display: inline-block;
+    width: 27%;
+    margin: 40px;
+    position: relative;
+    top: -223px;
+}
+
+.div1-p1 {
+    font-size: 50px;
+    color: rgb(84 88 90);
+    padding: 10px 0px 10px 0px;
+}
+
+.div1-p2 {
+    font-size: 21px;
+    color: rgb(113, 117, 119);
+    line-height: 31px;
+}
+
+.learn-more {
+    background-color: rgb(218 177 89);
+    padding: 5px 15px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.learn-more:hover {
+    background-color: rgb(224, 190, 115);
+    cursor: pointer;
+}
+
+.div2-p1 {
+    font-size: 50px;
+    color: rgb(84 88 90);
+    line-height: 45px;
+    padding: 0px 0px 10px 0px;
+}
+
+.div3-p1 {
+    font-size: 24.5px;
+    color: rgb(84 88 90);
+}
+
+.div3-div1 {
+    height: 255px;
+    width: 437.1px;
+    margin-top: 10px;
+    margin-left: -25px;
+}
+
+.div3-div1:hover {
+    background-color: rgb(231 231 231);
+    cursor: pointer;
+}
+
+.div3-div1-div1 {
+    background-color: rgb(151 202 58);
+    height: 70px;
+    width: 190px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.chihuly {
+    color: white;
+    font-size: 23px;
+    font-family: sans-serif;
+    letter-spacing: 4px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.garden {
+    color: white;
+    font-size: 12px;
+    margin-left: 29px;
+    margin-top: -5px;
+}
+
+.g-g {
+    font-size: 17px;
+}
+
+.and {
+    font-size: 11px;
+}
+
+.matn2 {
+    font-size: 15px;
+    margin-left: 27px;
+    margin-top: 15px;
+    color: rgb(113, 117, 119);
+    line-height: 20px;
+}
+
+.bino-rasm {
+    height: 150px;
+    width: 175px;
+    position: relative;
+    left: 240px;
+    top: -165px;
+}
+
+.buy-combo {
+    background-color: rgb(218 177 89);
+    padding: 5px 15px;
+    display: inline-block;
+
+}
+
+.buy-combo:hover {
+    background-color: rgb(224, 190, 115);
+    cursor: pointer;
+}
+
+.div3-also-included {
+    font-size: 24.5px;
+    color: rgb(84 88 90);
+    margin-top: 60px;
+}
+
+.oculus-selfie {
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(84 88 90);
+    padding-left: 5px;
+}
+
+.camera {
+    color: rgb(84 88 90);
+    font-size: 22px;
+    margin-top: 50px;
+}
+
+.div3-p5 {
+    color: rgb(113, 117, 119);
+    margin-top: 8px;
+    line-height: 20px;
+}
+
+.sayyohlar-rasm {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    left: 190px;
+    top: -120px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.man-rasm {
+    background-image: url(img/looking-out.jpg);
+    height: 465px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: -255px;
+    filter: blur(4px);
+}
+
+.man-rasm:hover {
+    filter: blur(0px);
+}
+
+.surish1 {
+    width: 380px;
+    color: white;
+    margin-left: 50px;
+    height: 400px;
+    display: inline-block;
+}
+
+.surish1-p1 {
+    font-size: 40px;
+    font-size: 100;
+    font-family: sans-serif;
+    padding: 40px 0px 25px 0px;
+}
+
+.friday1 {
+    font-size: 20px;
+    display: inline-block;
+    padding-top: 5px;
+}
+
+.soat10 {
+    display: inline-block;
+    font-size: 20px;
+    float: right;
+}
+
+.last-ticket {
+    font-size: 15.7px;
+    padding-top: 24px;
+    line-height: 20px;
+}
+
+.linklar {
+    color: rgb(225 193 122);
+}
+
+.linklar:hover {
+    color: #e4b248;
+}
+
+.surish2 {
+    display: inline-block;
+    height: 92.3%;
+    width: 390px;
+    position: relative;
+    top: -70px;
+    left: 75px;
+    color: white;
+}
+
+.tick {
+    font-size: 35px;
+
+    display: inline-block;
+}
+
+.kotariladi {
+    color: rgb(84 88 90);
+    transition: all 1s;
+    position: relative;
+    top: 0px;
+    font-size: 65px;
+}
+
+.kotariladi:hover {
+    position: relative;
+    color: rgb(84 88 90);
+    top: -30px;
+    font-size: 60px;
+}
+
+.kotariladi:active {
+    position: relative;
+    color: rgb(84 88 90);
+    top: 0px;
+    font-size: 65px;
+}
+
+.buy-now2 {
+    background-color: rgb(218 177 89);
+    padding: 4px 15px;
+    display: inline-block;
+    float: right;
+    color: black;
+    font-weight: 800;
+}
+
+.buy-now2:hover {
+    background-color: rgb(224, 190, 115);
+    cursor: pointer;
+}
+
+.general {
+    padding-top: 30px;
+    font-size: 19px;
+    display: inline-block;
+}
+
+.narxi2 {
+    display: inline-block;
+    font-size: 19px;
+    float: right;
+    padding-top: 30px;
+}
+
+.yashil-kontainer {
+    background-color: rgb(151 202 58);
+    height: 40px;
+    width: 90px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.chihuly3 {
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+
+}
+
+.garden3 {
+    color: white;
+    font-size: 7px;
+    margin-left: 7px;
+    margin-top: 0.01px;
+}
+
+.g-g2 {
+    font-size: 9px;
+}
+
+.and2 {
+    font-size: 6px;
+}
+
+.combo-ticket {
+    display: inline-block;
+    font-size: 19px;
+    position: relative;
+    top: -8px;
+}
+
+.narx3 {
+    display: inline-block;
+    float: right;
+    padding-top: 13px;
+    font-size: 19px;
+}
+
+.citypass {
+    font-size: 19px;
+    display: inline-block;
+    padding-top: 8px;
+}
+
+.narx4 {
+    font-size: 19px;
+    float: right;
+    display: inline-block;
+}
+
+.matnli-a {
+    padding-top: 30px;
+}
+
+.plan2 {
+    background-color: rgb(231, 226, 226);
+    padding: 3px 20px;
+    display: inline-block;
+    color: rgb(84 88 90);
+    font-weight: 800;
+    margin-top: 40px;
+}
+
+.plan2:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+.day102 {
+    margin-left: 15px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.img_111 {
+    background-image: url(img/Santa-crop.jpg);
+    height: 550px;
+    width: 575px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 40px 70px 0px 50px;
+}
+
+.img_1111 {
+    background-image: url(img/bg-3pack-promo.jpg);
+    height: 550px;
+    width: 575px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 40px 70px 0px 50px;
+    float: right;
+    margin-top: -550px;
+}
+
+.img_111_p1 {
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    padding-top: 290px;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+.img_111_p2 {
+    color: white;
+    line-height: 30px;
+    font-size: 21px;
+    padding-left: 30px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.learn-more-border {
+    padding: 3px 10px;
+    border: 1px solid white;
+    display: inline-block;
+    color: white;
+    font-weight: 800;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.learn-more-border:hover {
+    color: rgb(216, 208, 208);
+    border: 1px solid rgb(216, 208, 208);
+}
+
+.img_1111_p1 {
+    text-align: center;
+    color: white;
+    padding-top: 250px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.explore_more {
+    color: white;
+    background-color: rgb(190 25 2);
+    display: inline-block;
+    padding: 15px 60px;
+    border-radius: 35px;
+    font-size: 18px;
+    margin-left: 90px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+.explore_more:hover {
+    background-color: rgb(218 177 89);
+}
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.the_loupe_lounge_div1 {
+    background-color: #2A2C2D;
+    width: 66%;
+    height: 700px;
+    margin-top: 50px;
+}
+
+.the_loupe_lounge_div1_p1 {
+    color: rgb(225 193 122);
+    font-weight: 800;
+    text-align: center;
+    padding-top: 65px;
+}
+
+.the_loupe_lounge_div1_p2 {
+    color: white;
+    font-size: 50px;
+    font-family: serif;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.the_loupe_lounge_div1_p3 {
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding-left: 95px;
+    padding-top: 60px;
+    line-height: 35px;
+}
+
+.glass2_img {
+    height: 350px;
+    position: relative;
+    margin-left: 450px;
+    margin-top: -370px;
+    width: 380px;
+}
+
+.book_now {
+    background-color: rgb(218 177 89);
+    padding: 4px 15px;
+    display: inline-block;
+    color: black;
+    font-weight: 800;
+    margin-top: 15px;
+    margin-left: 95px;
+}
+
+.book_now:hover {
+    background-color: rgb(224, 190, 115);
+    cursor: pointer;
+}
+
+.the_loupe_lounge_div2 {
+    width: 34%;
+    float: right;
+    margin-top: -680px;
+    height: 200px;
+}
+
+.qosh1 {
+    font-size: 40px;
+    color: #616364;
+    margin-left: 30px;
+    position: relative;
+    top: -80px;
+}
+
+.the_loupe_lounge_div2_p1 {
+    position: relative;
+    left: 10px;
+    top: 0px;
+    font-weight: 600;
+    font-family: cursive;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.qosh2 {
+    font-size: 30px;
+    color: #616364;
+}
+
+.conde {
+    text-decoration: underline;
+    font-weight: 700;
+    padding-top: 15px;
+    margin-left: 250px;
+}
+
+.conde:hover {
+    color: #616364;
+    cursor: pointer;
+}
+
+.kishi3 {
+    height: 160px;
+    margin-top: 130px;
+    margin-left: 25px;
+}
+
+.family_picture {
+    height: 160px;
+}
+
+.la_family {
+    margin: 0px 0px 0px 25px;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.deanncruz {
+    font-family: cursive;
+    font-weight: 700;
+    margin: 25px 0px 0px 80px;
+}
+
+.the_loupe_lounge_oxirgi_div {
+    position: relative;
+    left: 250px;
+    display: inline-block;
+    top: -345px;
+}
+
+.this_has {
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.staceyleigh313 {
+    font-family: cursive;
+    font-weight: 700;
+    margin: 25px 0px 0px 23px;
+}
+
+/*///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.food_beverage {
+    font-size: 50px;
+    color: rgb(226, 166, 37);
+    text-align: center;
+    letter-spacing: -4px;
+    font-family: monospace;
+    margin-top: 130px;
+}
+
+.border_text {
+    border: 4px solid rgb(218 177 89);
+    height: 592px;
+    width: 625px;
+    display: inline-block;
+    margin: -0px 0px 0px 695px;
+    position: relative;
+    top: -604px;
+}
+
+.just_landed {
+    font-size: 34px;
+    font-weight: 700;
+    padding: 165px 0px 35px 30px;
+}
+
+.made_fresh {
+    margin: 0px 0px 35px 30px;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.head_to_the {
+    margin: 0px 0px 0px 30px;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.tiptop_cafe {
+    color: rgb(145 110 33);
+    font-weight: 700;
+}
+
+.bolish1 {
+    width: 51.5%;
+    display: inline-block;
+    position: relative;
+    top: -560px;
+    border-right: 4px solid rgb(218 177 89);
+    height: 230px;
+}
+
+.bolish2 {
+    width: 47%;
+    display: inline-block;
+    position: relative;
+    top: -590px;
+    height: 230px;
+}
+
+.the_sunset_bar {
+    font-size: 27px;
+    font-weight: 600;
+    margin: 20px 0px 0px 70px;
+    text-transform: uppercase;
+}
+
+.sip_our_signature {
+    margin: 17px 0px 0px 70px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.the_revolving_bar {
+    font-size: 27px;
+    font-weight: 600;
+    margin: -10px 0px 0px 30px;
+    text-transform: uppercase;
+}
+
+.atop_our_iconic {
+    margin: 17px 0px 0px 30px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.visit-visit {
+    width: 300px;
+    height: 780px;
+    text-align: center;
+    margin-top: -500px;
+    display: inline-block;
+    margin-left: 90px;
+}
+
+.visit-visit2 {
+    font-size: 55px;
+    color: #828485;
+    font-weight: 700;
+    letter-spacing: -2px;
+}
+
+.matn-kop {
+    font-size: 20px;
+    color: #828485;
+    line-height: 28px;
+}
+
+.matn-kop1 {
+    font-size: 15px;
+    color: #828485;
+    margin-top: 7px;
+    line-height: 22px;
+}
+
+.health {
+    font-size: 22px;
+    font-weight: 700;
+    color: #6e6e6e;
+}
+
+.star1 {
+    font-size: 37px;
+    color: rgb(104, 105, 105);
+    margin: 30px 0px 20px 0px;
+}
+
+.discover1 {
+    padding: 3px 15px;
+    background-color: #e4b248;
+    display: inline-block;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.chizma1 {
+    width: 800px;
+    height: 760px;
+    margin-left: 130px;
+}
+
+.sectilnal {
+    margin-top: -520px;
+}
+
+/*///////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.bino_img {
+    background-image: url(img/construction.jpg);
+    height: 599px;
+    width: 899px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.to_inspire_wonder {
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: -3px;
+    color: rgb(42 44 45);
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+
+.sur1 {
+    margin-left: 45px;
+}
+
+.the_space_needle {
+    padding-top: 30px;
+    font-size: 23px;
+    color: rgb(42 44 45);
+    line-height: 33px;
+}
+
+h5:hover {
+    background-color: rgb(224, 190, 115);
+    cursor: pointer;
+}
+
+.knute {
+    text-decoration: underline;
+    font-weight: 700;
+    padding-top: 20px;
+    margin-left: 140px;
+}
+
+.knute:hover {
+    color: #616364;
+    cursor: pointer;
+}
+
+.sur2 {
+    display: inline-block;
+    margin-left: 900px;
+    margin-top: -700px;
+    position: relative;
+    top: 41px;
+}
+
+.qiz-img {
+    background-image: url(img/1080.jpg);
+    height: 350px;
+    width: 300 px;
+    background-position: center;
+    background-size: cover;
+    margin: 60px 30px 0px 100px;
+}
+
+.insta {
+    color: white;
+    font-size: 21px;
+    margin: 310px 10px 0px 20px;
+}
+
+.mariroam {
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    display: inline-block;
+}
+
+.hover-yangi {
+    background-color: black;
+    width: 270px;
+    height: 80px;
+    position: relative;
+    left: 100px;
+    top: -80px;
+    opacity: 0%;
+}
+
+.hover-yangi:hover {
+    opacity: 100%;
+    cursor: pointer;
+}
+
+.kul {
+    color: white;
+    display: inline-block;
+}
+
+.kul:hover {
+    color: rgb(161, 158, 158);
+    cursor: pointer;
+}
+
+.inta {
+    color: white;
+    font-size: 21px;
+    margin: 13px 10px 9px 15px;
+}
+
+.nov {
+    color: #6e6e6e;
+    font-weight: 700;
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.my_brave {
+    color: rgb(189, 186, 186);
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.oq-rang {
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.oq-rang:hover {
+    color: rgb(199, 196, 196);
+}
+
+.qoraz {
+    color: black;
+}
+
+.adres {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(187 141 42);
+    text-transform: uppercase;
+    margin: 30px 0px 0px 12px;
+    display: inline-block;
+}
+
+.board {
+    font-size: 23px;
+    color: #6e6e6e;
+}
+
+.siljit {
+    display: inline-block;
+    margin: 1px 0px 0px 30px;
+    position: relative;
+    top: 65px;
+    line-height: 25px;
+}
+
+.plan1 {
+    padding: 0px 15px;
+    display: inline-block;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-top: 25px;
+    color: #6e6e6e;
+    border: 1px solid black;
+}
+
+.plan1:hover {
+    color: #474747;
+}
+
+.hur {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(187 141 42);
+    text-transform: uppercase;
+    margin: 150px 0px 0px 35px;
+    display: inline-block;
+}
+
+.friday11 {
+    font-size: 18px;
+    display: inline-block;
+    padding-top: 5px;
+    color: #6e6e6e;
+}
+
+.soat100 {
+    display: inline-block;
+    font-size: 18px;
+    float: right;
+    color: #6e6e6e;
+    margin-top: 5px;
+}
+
+.kunlar_ochiq {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 40px;
+}
+
+.contr {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(187 141 42);
+    text-transform: uppercase;
+    margin: 230px 0px 0px 12px;
+    display: inline-block;
+}
+
+.hamkor {
+    display: inline-block;
+    margin: 0px 0px 0px 25px;
+    position: relative;
+    top: 20px;
+}
+
+.feed {
+    display: inline-block;
+    font-weight: 700;
+    color: #6e6e6e;
+    margin-left: 5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 27px;
+}
+
+.hamkorlik {
+    color: #424242;
+    margin-left: 10px;
+    font-size: 19px;
+}
+
+.bino_chizmasi {
+    height: 655px;
+    width: 200px;
+    margin-left: 570px;
+    margin-top: -550px;
+}
+
+.oxirgi_footer {
+    margin-left: 820px;
+    margin-top: -610px;
+}
+
+.oxirgi_footer_div {
+    display: inline-block;
+}
+
+.oxirgi_footer_div1 {
+    display: inline-block;
+    position: relative;
+    top: -50px;
+    left: 85px;
+}
+
+.plan3 {
+    color: rgb(187 141 42);
+    text-transform: uppercase;
+    margin: 30px 0px 22px 0px;
+}
+
+.oxirgi_footer_div p {
+    line-height: 28px;
+    font-size: 17px;
+    color: #555454;
+}
+
+.oxirgi_footer_div1 p:hover,
+.oxirgi_footer_div p:hover {
+    color: #c0c1c2;
+    cursor: pointer;
+}
+
+.oxirgi_footer_div1 p {
+    line-height: 28px;
+    font-size: 17px;
+    color: #555454;
+}
+
+.qora-border {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(170, 168, 168);
+    margin-top: 165px;
+}
+
+.space2024 {
+    text-align: center;
+    color: rgb(170, 168, 168);
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.birinchi {
+    line-height: 35px;
+    margin-top: 10px;
+}
+
+.ikkinchi {
+    padding: 0px 0px 60px 0px;
+}
